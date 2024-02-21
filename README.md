@@ -56,9 +56,9 @@ Code3可用于替代HumanEval来更好的测评中文大模型。具体的说，
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example3.png"  width="70%" height="70%">
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example3.png"  width="70%" height="70%">
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example4.png"  width="70%" height="70%">
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example3.png"  width="70%" height="70%">
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example5.png"  width="70%" height="70%">
 
 ### 测评及计分方式
 
