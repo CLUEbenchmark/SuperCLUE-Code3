@@ -140,7 +140,7 @@ score_weighted = (1.0 * score_level1 + 2.0 * score_level2 + 3.0 * score_level3) 
 |  8   | Code-Llama-13b-instruct | 模型 |       **21.11**      |   34.36   |    1.03   |
 |  9   |  ChatGLM3-6B-Chat     | 模型 |       **15.29**      |   22.56   |   91.79   |
 | 10   | Baichuan2-13B-Chat    | 模型 |       **13.89**      |   26.09   |   94.36   |
-| 11   |     Llama-13b-Chat    | 模型 |        **6.06**      |   13.33   |   94.36   |
+| 11   |     Llama2-13b-Chat    | 模型 |        **6.06**      |   13.33   |   94.36   |
 
     说明：使用方式为模型时的解码方式统一为：greedy；指令遵循率，为模型是否遵循了规定的格式来输出最终答案。
     deepseek-coder-6.7b具体指deepseek-coder-6.7b-instruct
@@ -158,7 +158,7 @@ score_weighted = (1.0 * score_level1 + 2.0 * score_level2 + 3.0 * score_level3) 
 |  8   | Code-Llama-13b-instruct   | 模型 |        **21.11**      |     52.22    |     25.37    |      7.89    |
 |  9   |    ChatGLM3-6B-Chat       | 模型 |        **15.29**      |     32.22    |     17.91    |      7.89    |
 | 10   |   Baichuan2-13B-Chat      | 模型 |        **13.89**      |     43.53    |     15.62    |      2.86    |
-| 11   |     Llama-13b-Chat        | 模型 |         **6.06**      |     24.44    |      5.97    |      0.00    |
+| 11   |     Llama2-13b-Chat        | 模型 |         **6.06**      |     24.44    |      5.97    |      0.00    |
 
 ## 结论及分析
 
