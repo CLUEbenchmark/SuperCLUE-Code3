@@ -49,6 +49,17 @@ Code3可用于替代HumanEval来更好的测评中文大模型。具体的说，
 |  9   | 题目数量 | 195题<br/>（1560个测试用例） | 164题<br/>（1263测试用例） |
 |  9   | 平均测试用例 |       8个        |   7.7个   |
 
+### 示例
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example1.png"  width="70%" height="70%">
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example2.png"  width="70%" height="70%">
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example3.png"  width="70%" height="70%">
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example3.png"  width="70%" height="70%">
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/example3.png"  width="70%" height="70%">
+
 ### 测评及计分方式
 
 整体测评流程包括：1.获取模型答案；2.提取功能函数；3.测试功能函数；4.计算模型得分。
@@ -187,9 +198,6 @@ deepseek_coder6.7B_greedy作为国内小模型，在中级难度得分上达到4
 需要注意的是，我们本次测试了一批国际上代表性的模型，包含了较大参数的模型，而国内模型测试中本次主要是针对参数量较小的模型，后续将添加更多模型。
 
 ### 六、如何申请应用及联系方式？
-
-
-
 
 <br/>加入交流群或添加微信交流。现征集代码大模型测评，有意愿参与代码测评的厂商可发送邮件至contact@superclue.ai，标题：SuperCLUE-Code3测评集
 
