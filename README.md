@@ -193,7 +193,7 @@ deepseek_coder6.7B_greedy作为国内小模型，在中级难度得分上达到4
 
 <br/>加入交流群或添加微信交流。现征集代码大模型测评，有意愿参与代码测评的厂商可发送邮件至contact@superclue.ai，标题：SuperCLUE-Code3测评集
 
-<br/><h3 id="discuss">讨论交流与使用</h3>
+<h3 id="discuss">讨论交流与使用</h3>
 <p float="left"><br>  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/code3_group.jpeg"  width="30%" height="30%"></img>
   <img src="https://github.com/CLUEbenchmark/SuperCLUE-Code3/blob/main/resources/img/brightmarts.png"  width="30%" height="30%"></img>
 </p> 
